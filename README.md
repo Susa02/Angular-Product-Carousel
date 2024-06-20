@@ -1,5 +1,8 @@
 This uses Angular to fetch and display a set of products under a particular category.
-![alt text](image.png)
+This is how the final output looks.
+![Screenshot_20-6-2024_215425_angular-product-carousel-8r1b9n9tk-susas-projects-c3277de7 vercel app](https://github.com/Susa02/Angular-Product-Carousel/assets/91368717/dfaab7e4-5a33-48d0-a4d6-e7d64c182432)
+
+
 
 # Task2ProductCarousel
 

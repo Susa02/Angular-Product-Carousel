@@ -1,3 +1,6 @@
+This uses Angular to fetch and display a set of products under a particular category.
+![alt text](image.png)
+
 # Task2ProductCarousel
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.

@@ -1,0 +1,16 @@
+<div class="container">
+ @for (category of categories; track category) {
+  <h2>{{ getTitleCase(category) }}</h2>
+  <div class=" carousel ">
+    @for (product of categorizedProducts[category]; track product.id) {
+      <div>
+        <app-card [src]="product.thumbnail"
+        [title]="product.title"
+        [text]="product.description"></app-card>
+    </div>
+    }
+    </div>
+ }
+</div>
+
+
